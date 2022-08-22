@@ -1,4 +1,4 @@
-# Model title
+# MolPMoFiT
 ## Model identifiers
 - Slug:
 - Ersilia ID: 
